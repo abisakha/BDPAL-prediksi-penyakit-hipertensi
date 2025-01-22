@@ -1,0 +1,27 @@
+<p align="center">
+  <img src="https://github.com/abisakha/BDPAL-prediksi-penyakit-hipertensi/blob/main/BIG.jpg">
+</p>
+
+# Project Title
+## Prediksi Penyakit Hipertensi menggunakan 4 metode machine Learning (Gradient Boosting, Random Forest, SVM, dan Logistic Regresion)
+
+<!-- Buttons -->
+![GitHub License](https://img.shields.io/github/license/jith4j/Tuberculosis-Classification)
+![GitHub number of Languages](https://img.shields.io/github/languages/count/jith4j/Tuberculosis-Classification)
+![GitHub top Language](https://img.shields.io/github/languages/top/jith4j/Tuberculosis-Classification?color=orange)
+[![Open In Colab: ](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jith4j/Tuberculosis-Classification/blob/main/Tuber_Classification.ipynb)
+
+
+Hipertensi merupakan kondisi medis yang ditandai oleh tekanan darah sistolik dan diastolik yang tinggi, yaitu di atas 140/90 mmHg. Penyakit ini sering disebut   dengan ”Silent Killer” karena penyakit ini tidak menunjukan gejala pada sebagian penderita hingga terjadinya komplikasi serius. Hipertensi secara perlahan merusak berbagai organ dalam tubuh, seperti ginjal, jantung, mata, dan otak. Hal tersebut membuat hipertensi menjadi faktor utama penyebab penyakit jantung, gagal ginjal kronis, serta stroke. Menurut data dari Organisasi Kesehatan Dunia (WHO) 2023 diperkirakan 1,28 miliar orang dewasa dalam rentang usia 23-79 tahun di seluruh dunia menderita hipertensi, dengan ⅔ dari data tersebut merupakan penderita yang tinggal di negara berpenghasilan rendah dan menengah. Selain itu, menurut data Kementrian Kesehatan (Kemenkes) 2023 penderita hipertensi di Indonesia mencapai 34,1% atau sekitar 70 juta penduduk. Hal tersebut mengindikasikan 1 dari 3 orang Indonesia menderita hipertensi. Gejala utama yang dirasakan oleh penderita hipertensi dibagi menjadi 2 tipe, yaitu penderita hipertensi ringan dan hipertensi berat.  Penderita hipertensi ringan memiliki gejala sakit kepala, nyeri dada, mimisan, dan sesak napas. Sedangkan, penderita hipertensi berat memiliki gejala nyeri pada dada, gemetar tidak terkendali pada otot atau tremor otot, dan mual [1].
+Pada saat ini dengan berkembangnya teknologi dan berbagai kecerdasan buatan, menjadi salah satu inovasi utama dalam mendukung  berbagai bidang, termasuk sektor kesehatan. Machine learning memiliki kemampuan untuk menganalisa data dalam jumlah besar, mempelajari pola tersembunyi, dan memberikan prediksi yang akurat.  Hal tersebut meningkatkan kualitas layanan kesehatan, dan membantu dalam memprediksi penyakit. Dalam penerapannya, Machine Learning membantu memangkas waktu yang dibutuhkan dalam proses diagnostik medis dengan kemampuan algoritmanya dalam mempelajari pola dari data riwayat pasien dan data laboratorium [2].  Hal tersebut  memudahkan staf medis dalam mengidentifikasi dan mendiagnosa penyakit secara akurat dan efisien.  Machine learning memiliki berbagai metode dan algoritma dalam menganalisa data dan membuat prediksi. Berdasarkan teknik pembelajarannya, tipe-tipe machine learning dapat dibedakan menjadi supervised learning, unsupervised learning, semi supervised learning dan reinforcement learning [3].
+Pemilihan topik ini bertujuan untuk membangun model machine learning yang memprediksi penyebab hipertensi, terdapat beberapa tujuan utama yang ingin dicapai. Salah satu tujuannya adalah mengidentifikasi dan memahami faktor-faktor risiko yang berkontribusi terhadap hipertensi. Melalui analisis data kesehatan, model ini dapat mengungkap pola dan hubungan antara berbagai variabel, seperti usia, pola makan, aktivitas fisik, dan riwayat kesehatan keluarga, sehingga mendukung pengembangan strategi pencegahan yang lebih efektif. Selain itu, model ini bertujuan untuk mendukung pencegahan dini dengan memprediksi kemungkinan seseorang mengembangkan hipertensi, sehingga intervensi seperti perubahan gaya hidup, peningkatan aktivitas fisik, perbaikan pola makan, dan pengelolaan stres dapat dilakukan lebih awal. Model ini juga berpotensi meningkatkan kesadaran masyarakat tentang risiko hipertensi dengan memberikan informasi yang jelas dan berbasis data, mendorong individu untuk menjaga kesehatan dan melakukan pemeriksaan rutin. 
+Beberapa penelitian yang menggunakan metode random forest dalam memprediksi penyakit hipertensi sebelumnya. Seperti Penelitian yang dilakukan oleh Purwono Purwono, Pramesti Dewi, Sony Kartika Wibowo, Bala Putra Dewa pada tahun 2022 dengan nilai akurasi ketepatan prediksi yang diperoleh sebesar 85% [4]. Adapun penelitian yang dilakukan oleh Supriyono, Erida, Fadila dengan pada tahun 2022 dengan nilai akurasi sebesar 85% pada proses pelatihan dan 91,89 % pada proses pengujian [5].
+Projek ini bertujuan untuk mengidentifikasi faktor-faktor signifikan yang berkontribusi terhadap perkembangan hipertensi. Penelitian sebelumnya telah menunjukkan bahwa pendekatan berbasis data ini dapat memberikan wawasan yang lebih mendalam mengenai interaksi kompleks antara berbagai faktor risiko. Dengan menerapkan 4 metode algortima Machine learning dalam memprediksi penyebab hipertensi dengan menganalisis dataset yang relevan. diharapkan dapat memberikan informasi yang berguna bagi tenaga kesehatan dalam upaya pencegahan dan pengelolaan hipertensi secara lebih efektif. Selain itu, penelitian ini juga bertujuan untuk memperkaya literatur mengenai penggunaan teknik analisis data modern dalam bidang kesehatan masyarakat.
+.</b>.
+
+
+
+# refrensi
+https://www.kaggle.com/datasets/khan1803115/hypertension-risk-model-main/data
+
+
